@@ -1,0 +1,8 @@
+## Interface: 120000
+## Title: Stormwind Portals Map
+## Notes: Shows a portal-room overlay when targeting Maginor Dumas.
+## Author: You
+## Version: 0.1
+## SavedVariables: StormwindPortalsMapDB
+
+StormwindPortalsMap.lua
